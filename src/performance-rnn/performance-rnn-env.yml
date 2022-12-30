@@ -1,0 +1,14 @@
+name: performance-rnn-env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.7.13
+  - jupyter
+  - pip
+  - pip:
+    - numpy==1.19
+    - tensorflow==1.15.2
+    - note-seq==0.0.2
+    - tensorflow-datasets==3.2.1
+    - magenta

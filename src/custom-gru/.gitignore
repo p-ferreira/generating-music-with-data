@@ -1,0 +1,8 @@
+.vscode
+*.pyc
+.DS_Store
+*.mid
+*.MID
+*.sess
+*.data
+runs/

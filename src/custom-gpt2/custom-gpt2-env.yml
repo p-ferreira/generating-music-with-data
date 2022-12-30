@@ -1,0 +1,21 @@
+name: "custom-gpt2-env"
+channels:
+  - conda-forge
+  - pytorch
+  - defaults
+dependencies:
+  - python=3.8.8
+  - jupyter
+  - pip
+  - pip:
+    - transformers
+    - tokenizers
+    - datasets
+    - pyfluidsynth
+    - torch
+    - music21
+    - note_seq
+    - tensorboard
+    - bokeh==2.4.3
+    - protobuf==3.20
+#    - cudatoolkit=11.6

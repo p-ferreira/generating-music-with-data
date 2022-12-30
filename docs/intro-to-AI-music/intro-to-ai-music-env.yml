@@ -1,0 +1,23 @@
+name: "intro-to-ai-music-env"
+channels:
+  - conda-forge
+  - defaults
+  #  - pytorch
+
+dependencies:
+  - python=3.8.8
+  - jupyter
+  - pip
+  - pip:
+      # utils libraries
+      - numpy
+      - seaborn
+      - tqdm
+      - matplotlib
+      - pandas
+      - transformers
+      - tokenizers
+      - bertviz
+      - note_seq
+      - librosa
+      - bokeh==2.4.3

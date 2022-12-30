@@ -1,0 +1,3 @@
+bin/*
+notebooks/*.mid
+scripts/manual-setup/bin
