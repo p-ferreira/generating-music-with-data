@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-This repository contains the code for the experiments conducted in the paper [Generating music with data: Application of Deep Learning models for symbolic music composition](docs/Generating%20music%20with%20data%20-%20Pedro%20Ferreira.pdf). This paper is a summary of my research on the application of Deep Learning models for symbolic music composition. The research was conducted at the [Universidade de São Paulo](https://www5.usp.br/). 
+This repository contains the code for the experiments conducted in the paper [Generating music with data: Application of Deep Learning models for symbolic music composition](https://www.mdpi.com/2076-3417/13/7/4543). This paper is a summary of my research on the application of Deep Learning models for symbolic music composition. The research was conducted at the [Universidade de São Paulo](https://www5.usp.br/). 
 
 This repository also includes a [summary of the research results](docs/summary-results/summary-of-research-results.md) of the experiments conducted in the paper, as well as a [support notebook](docs/intro-to-AI-music/intro-to-ai-music.ipynb) approaching AI Music from an overview perspective.
 
